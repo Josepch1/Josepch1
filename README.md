@@ -1,12 +1,16 @@
+
+
 <h1 align="center">Welcome! 👋<br>Make yourself at home!</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+<p align="left">👋 Hi, I'm <b>José Pedro Camboim Homenhuck</b> from <b>RS, Brazil</b>.</p>
 
-<p align="left">👋 Hi, I'm **José Pedro Camboim Homenhuck** from **RS, Brazil**.<br><br>- 🔭 I’m currently working as a **Software Development Intern** at **Liess Máquinas e Equipamentos Ltda**.<br>- 📚 I'm diving deep into **Spring Boot** and constantly learning more about backend development.<br>- ⚡ In my free time, I create more bugs! 😁</p>
+ - 🔭 I’m currently working as a **Software Development Intern** at **Liess Máquinas e Equipamentos Ltda**.
+ - 📚 I'm diving deep into **Spring Boot** and constantly learning more about backend development.
+ - ⚡ In my free time, I create more bugs! 😁
 
 ###
 
