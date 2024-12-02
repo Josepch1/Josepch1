@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! 👋<br>Make yourself at home!</h1>
+<h1 align="center">Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br>Make yourself at home!</h1>
 
 ###
 
