@@ -6,7 +6,7 @@
 
 <p align="left">Hi there! I'm José Pedro, a passionate and curious software development enthusiast.</p>
 
-- 🔭 <b>Currently working</b> as a <b>Junior Software Development</b> at GEO Digital.
+- 🔭 <b>Currently working</b> as a <b>Software Development</b> at GEO Digital.
 - 📚 <b>Focused on</b> mastering <b>PHP</b> and sharpening my <b>backend development</b> skills.
 - ⚡ <b>Fun fact</b>: In my free time, I enjoy solving problems... but often end up creating a few extra bugs along the way! 😁
 
