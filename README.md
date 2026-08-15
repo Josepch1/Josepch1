@@ -21,16 +21,7 @@ Right now I'm learning Laravel properly. Eloquent, queues, and writing tests wit
 
 I came from Java and Spring Boot, so that's still where most of my habits come from. It shows in how I split things into layers, sometimes more than a Laravel app really needs.
 
-## Projects
-
-Everything public here is Java for now. The Laravel side is still sitting on my machine.
-
-| Project | What it is |
-| :--- | :--- |
-| **[PlanejaMais](https://github.com/Josepch1/PlanejaMais)** | Finance app to keep track of income, expenses and budgets.<br>`Java` `Spring Boot` `JPA` |
-| **[gateway](https://github.com/Josepch1/gateway)** | API gateway with routing and service discovery. Built it to learn Spring Cloud.<br>`Spring Cloud Gateway` `Eureka` |
-| **[jwt-auth](https://github.com/Josepch1/jwt-auth)** | Login and role-based access using JWT.<br>`Spring Security` `JWT` |
-| **[studying-kafka](https://github.com/Josepch1/studying-kafka)** | Producer and consumer setup to figure out how Kafka works.<br>`Java` `Apache Kafka` |
+That's also why everything pinned below is Java. The Laravel side is still sitting on my machine.
 
 ## Stack
 
