@@ -23,9 +23,13 @@ Most of what I write is PHP. Laravel when the project fits it, plain PHP when a 
 
 Static analysis and tests are part of writing the code for me, not a step that comes after it.
 
-**Architecture.** Modular monolith, split into Domain, Application, Infrastructure and HTTP layers. The dependency rules between them are enforced by Deptrac in CI, so a shortcut fails the build instead of surviving review.
+**Architecture.** Domain-Driven Design in a modular monolith: one module per bounded context, each split into Domain, Application, Infrastructure and HTTP. The domain layer holds the entities, value objects, domain events and repository interfaces, and knows nothing about Eloquent or HTTP.
 
-**Testing.** A real pyramid, with unit, integration, feature, smoke and e2e as separate suites. Coverage only tells me which lines ran, so I use Infection for mutation testing to find out what the tests actually verify. Architecture tests run with Pest.
+The dependency rule from Clean Architecture points inward, and Deptrac enforces it in CI. A shortcut import fails the build instead of surviving review. Where a layer genuinely has to be crossed, the exception is declared in the config with the reason written above it, so it stays a decision rather than a suppressed warning.
+
+**Testing.** This is the part I enjoy most. Separate suites for unit, integration, feature, smoke and end to end, plus architecture tests that assert the shape of the code rather than its output. Test names read as behaviour, so a failure tells you what the system stopped doing.
+
+Coverage only says which lines ran. Mutation testing says whether anything would have noticed if those lines were wrong, and it is the check that has found the most useless tests I had written.
 
 **Static analysis.** PHPStan and Larastan at a strict level, Rector for upgrades, Pint for formatting. Secret scanning with Gitleaks on every push.
 
