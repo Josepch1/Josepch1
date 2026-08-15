@@ -17,31 +17,32 @@
 
 ### 💻 About
 
-Backend developer at **GEO Digital**, working on PHP applications and MySQL databases.
+I'm a backend dev at GEO Digital. Most of my day is PHP and MySQL, a good part of it working on code that's been around for a while.
 
-- 🔧 Day to day: PHP, MySQL, REST APIs, legacy maintenance and refactoring
-- 🌱 Going deeper into **Laravel** — Eloquent, service containers, queues, testing with PHPUnit/Pest
-- 🧰 Background in **Java + Spring Boot**, which shapes how I structure services and layering in PHP
-- 🎯 Goal for 2026: ship a Laravel project running in production, not just a study repo
+Right now I'm learning Laravel properly. Eloquent, queues, and writing tests with Pest.
+
+I came from Java and Spring Boot, so that's still where most of my habits come from.
+
+This year I want to have a Laravel project of my own running somewhere.
 
 ---
 
 ### 🚀 Projects
 
-> Laravel projects coming soon — see the roadmap below.
+Laravel stuff is coming. For now, what's here is Java.
 
-| Project | What it does | Stack |
+| Project | About | Stack |
 |---|---|---|
-| **[PlanejaMais](https://github.com/Josepch1/PlanejaMais)** | Personal finance planner — track income, expenses and budgets through a REST API | Java · Spring Boot · JPA |
-| **[gateway](https://github.com/Josepch1/gateway)** | API gateway with dynamic routing and service discovery | Spring Cloud Gateway · Eureka |
-| **[jwt-auth](https://github.com/Josepch1/jwt-auth)** | Stateless authentication and role-based authorization | Spring Security · JWT |
-| **[studying-kafka](https://github.com/Josepch1/studying-kafka)** | Producer/consumer experiments with event-driven messaging | Java · Apache Kafka |
+| **[PlanejaMais](https://github.com/Josepch1/PlanejaMais)** | Finance app to keep track of income, expenses and budgets | Java · Spring Boot · JPA |
+| **[gateway](https://github.com/Josepch1/gateway)** | API gateway with routing and service discovery. Built it to learn Spring Cloud | Spring Cloud Gateway · Eureka |
+| **[jwt-auth](https://github.com/Josepch1/jwt-auth)** | Login and role-based access using JWT | Spring Security · JWT |
+| **[studying-kafka](https://github.com/Josepch1/studying-kafka)** | Producer and consumer setup to figure out how Kafka works | Java · Apache Kafka |
 
 ---
 
 ### 🛠 Tech
 
-**Main**
+**What I use most**
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" />&nbsp;&nbsp;
@@ -52,7 +53,7 @@ Backend developer at **GEO Digital**, working on PHP applications and MySQL data
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" />
 </div>
 
-**Also work with**
+**Also worked with**
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />&nbsp;&nbsp;
