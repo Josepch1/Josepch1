@@ -71,9 +71,11 @@ Static analysis and tests are part of writing the code for me, not a step that c
 
 </details>
 
-## A note on the repos below
+## Public work
 
-Most of my work lives in private repositories, so what is public here is older and does not reflect how I build things today. I'm working on changing that.
+Most of what I build is in private repositories, so I put together one that is not.
+
+**[php-quality-gates](https://github.com/Josepch1/php-quality-gates)** is a small layered module wired to the checks described above. Clone it, run `composer check`, then add an import that breaks a layer boundary and watch the build refuse it. Everything else public here is older and does not say much about how I work today.
 
 ---
 
