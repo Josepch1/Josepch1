@@ -27,7 +27,9 @@ Static analysis and tests are part of writing the code for me, not a step that c
 
 The dependency rule from Clean Architecture points inward, and Deptrac enforces it in CI. A shortcut import fails the build instead of surviving review. Where a layer genuinely has to be crossed, the exception is declared in the config with the reason written above it, so it stays a decision rather than a suppressed warning.
 
-**Testing.** This is the part I enjoy most. Separate suites for unit, integration, feature, smoke and end to end, plus architecture tests that assert the shape of the code rather than its output. Test names read as behaviour, so a failure tells you what the system stopped doing.
+**Testing.** This is the part I enjoy most. When I already know what a piece of code should do, I write the failing test before I write it, and let the test drive the shape of the interface. It is easier to design something you have already had to call once.
+
+Separate suites for unit, integration, feature, smoke and end to end, plus architecture tests that assert the shape of the code rather than its output. Test names read as behaviour, so a failure tells you what the system stopped doing.
 
 Coverage only says which lines ran. Mutation testing says whether anything would have noticed if those lines were wrong, and it is the check that has found the most useless tests I had written.
 
