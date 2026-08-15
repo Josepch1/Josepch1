@@ -21,9 +21,6 @@ Right now I'm learning Laravel properly. Eloquent, queues, and writing tests wit
 
 I came from Java and Spring Boot, so that's still where most of my habits come from. It shows in how I split things into layers, sometimes more than a Laravel app really needs.
 
-> [!NOTE]
-> Next up: rewriting **PlanejaMais** in Laravel. Same domain I already built with Spring Boot, so the two repos should make a decent side-by-side read.
-
 ## Projects
 
 Everything public here is Java. The Laravel work is what comes next.
