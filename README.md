@@ -19,9 +19,7 @@ Hey, I'm José Pedro. I work as a backend dev at GEO Digital, mostly PHP and MyS
 
 Right now I'm learning Laravel properly. Eloquent, queues, and writing tests with Pest. Somewhere in there I usually break something and spend the evening finding out why.
 
-I came from Java and Spring Boot, so that's still where most of my habits come from. It shows in how I split things into layers, sometimes more than a Laravel app really needs.
-
-That's also why everything pinned below is Java. The Laravel side is still sitting on my machine.
+I tend to split things into more layers than a Laravel app really needs. Working on it.
 
 ## Stack
 
