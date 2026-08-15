@@ -1,7 +1,7 @@
 <h1 align="center">José Pedro C. Homenhuck</h1>
 
 <p align="center">
-  <b>Backend developer</b> · PHP, Laravel and MySQL · Porto Alegre, Brazil
+  👋 <b>Backend developer</b> · PHP, Laravel and MySQL · Porto Alegre, Brazil
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 ## About
 
-I'm a backend dev at GEO Digital. Most of my day is PHP and MySQL, a good part of it working on code that's been around for a while.
+Hey, I'm José Pedro. I work as a backend dev at GEO Digital, mostly PHP and MySQL, and a good part of my day goes into code that's been around longer than I have.
 
-Right now I'm learning Laravel properly. Eloquent, queues, and writing tests with Pest.
+Right now I'm learning Laravel properly. Eloquent, queues, and writing tests with Pest. Somewhere in there I usually break something and spend the evening finding out why.
 
 I came from Java and Spring Boot, so that's still where most of my habits come from. It shows in how I split things into layers, sometimes more than a Laravel app really needs.
 
 ## Projects
 
-Everything public here is Java. The Laravel work is what comes next.
+Everything public here is Java for now. The Laravel side is still sitting on my machine.
 
 | Project | What it is |
 | :--- | :--- |
@@ -62,5 +62,5 @@ Everything public here is Java. The Laravel work is what comes next.
 ---
 
 <p align="center">
-  <sub>Want to talk about backend work? <a href="https://www.linkedin.com/in/josepch/">LinkedIn</a> is the fastest way to reach me.</sub>
+  <sub>Want to talk backend, or just say hi? <a href="https://www.linkedin.com/in/josepch/">LinkedIn</a> is the fastest way to reach me.</sub>
 </p>
